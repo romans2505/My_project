@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e2dc56c-b041-4777-a7d4-2a0ef9180ce5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "romans2505"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/romans2505/My_project.git",
+    "accountId": "c543592a-4633-4263-bc57-8b153cc58a15"
+  }
+}]]></component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2n9rUJX2BHWmaz3m0oPcGt6GK11" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Material Theme Notifications&quot;: &quot;Material theme UI notifications&quot;,
+    &quot;Notification.DoNotAsk-Material Theme Notifications&quot;: &quot;true&quot;,
+    &quot;Python.Eduson_Задание_PEP8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_two.executor&quot;: &quot;Run&quot;,
+    &quot;Python.one_more_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.other.executor&quot;: &quot;Run&quot;,
+    &quot;Python.other_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.statistic_for_20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.statistic_hunt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;XML-Groovy.xml.groovy&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;XML-Groovy.xml.groovy&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/trast/PycharmProjects/lesson1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28616026&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trast\PycharmProjects\lesson1\.idea" />
+      <recent name="C:\Users\trast\PycharmProjects\lesson1\.idea\pack" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="statistic_for_20" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="My_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.idea" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/statistic_for_20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\trast\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e2dc56c-b041-4777-a7d4-2a0ef9180ce5" name="Changes" comment="" />
+      <created>1728396146896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728396146896</updated>
+      <workItem from="1728396155357" duration="843000" />
+      <workItem from="1728412969317" duration="399000" />
+      <workItem from="1728413372963" duration="213000" />
+      <workItem from="1728413589860" duration="58000" />
+      <workItem from="1728413660028" duration="7272000" />
+      <workItem from="1728476743313" duration="2450000" />
+      <workItem from="1728480195908" duration="1740000" />
+      <workItem from="1728482979170" duration="8319000" />
+      <workItem from="1728504177953" duration="1572000" />
+      <workItem from="1728559454785" duration="25897000" />
+      <workItem from="1728906504849" duration="20030000" />
+      <workItem from="1728989327070" duration="14074000" />
+      <workItem from="1729088767557" duration="10769000" />
+      <workItem from="1729521468845" duration="34906000" />
+      <workItem from="1730296362897" duration="4108000" />
+      <workItem from="1730988181987" duration="8849000" />
+      <workItem from="1731246808204" duration="14923000" />
+      <workItem from="1731332198636" duration="1945000" />
+      <workItem from="1731504772609" duration="5293000" />
+      <workItem from="1731586950853" duration="556000" />
+      <workItem from="1731587564643" duration="184000" />
+      <workItem from="1731587787023" duration="72000" />
+      <workItem from="1731587868746" duration="1175000" />
+      <workItem from="1731589069353" duration="2056000" />
+      <workItem from="1731673383344" duration="6014000" />
+      <workItem from="1731854301529" duration="314000" />
+      <workItem from="1731854702996" duration="3388000" />
+      <workItem from="1731926706457" duration="1297000" />
+      <workItem from="1731930281298" duration="7710000" />
+      <workItem from="1732011593712" duration="15071000" />
+      <workItem from="1732116846594" duration="787000" />
+      <workItem from="1732117660174" duration="1156000" />
+      <workItem from="1732119224669" duration="12256000" />
+      <workItem from="1732136272355" duration="69000" />
+      <workItem from="1732136359843" duration="25000" />
+      <workItem from="1732187142748" duration="5591000" />
+      <workItem from="1732218673702" duration="837000" />
+      <workItem from="1732537903274" duration="7895000" />
+      <workItem from="1732546177774" duration="2595000" />
+      <workItem from="1732548845330" duration="1578000" />
+      <workItem from="1732710313677" duration="114000" />
+      <workItem from="1732710438287" duration="11980000" />
+      <workItem from="1732746032542" duration="603000" />
+      <workItem from="1732887522288" duration="50147000" />
+      <workItem from="1733765781896" duration="10529000" />
+      <workItem from="1733844147502" duration="678000" />
+      <workItem from="1734088526070" duration="4965000" />
+      <workItem from="1734094945213" duration="15713000" />
+      <workItem from="1734619785559" duration="279000" />
+      <workItem from="1735060663046" duration="412000" />
+      <workItem from="1735061222601" duration="5766000" />
+      <workItem from="1735220452481" duration="6985000" />
+      <workItem from="1736523480172" duration="8656000" />
+      <workItem from="1736800736604" duration="858000" />
+      <workItem from="1737632587400" duration="3795000" />
+      <workItem from="1737638719162" duration="4422000" />
+      <workItem from="1737645004217" duration="2991000" />
+      <workItem from="1737648444947" duration="5915000" />
+      <workItem from="1737992248782" duration="1194000" />
+      <workItem from="1737993581598" duration="2195000" />
+      <workItem from="1738067385746" duration="761000" />
+      <workItem from="1738242701333" duration="1100000" />
+      <workItem from="1738246512336" duration="2020000" />
+      <workItem from="1738249150900" duration="27896000" />
+      <workItem from="1738588409314" duration="17080000" />
+      <workItem from="1738773806682" duration="30000" />
+      <workItem from="1738773850673" duration="227000" />
+      <workItem from="1738774089768" duration="39000" />
+      <workItem from="1738774139566" duration="30000" />
+      <workItem from="1738774179249" duration="2903000" />
+      <workItem from="1739902688465" duration="20000" />
+      <workItem from="1739902723656" duration="369000" />
+      <workItem from="1739903113072" duration="438000" />
+      <workItem from="1739903617377" duration="1828000" />
+      <workItem from="1740409612942" duration="16838000" />
+      <workItem from="1740489608075" duration="3293000" />
+      <workItem from="1740498778235" duration="5196000" />
+      <workItem from="1740512152045" duration="411000" />
+      <workItem from="1740591349537" duration="1665000" />
+      <workItem from="1740657177149" duration="8452000" />
+      <workItem from="1741123230208" duration="622000" />
+      <workItem from="1741180206373" duration="2056000" />
+      <workItem from="1741186538080" duration="3534000" />
+      <workItem from="1741274760590" duration="4545000" />
+      <workItem from="1741871301896" duration="743000" />
+      <workItem from="1741872071997" duration="435000" />
+      <workItem from="1741872524655" duration="126000" />
+      <workItem from="1741872659895" duration="429000" />
+      <workItem from="1741873107383" duration="4495000" />
+      <workItem from="1741964029810" duration="2312000" />
+      <workItem from="1742209931850" duration="12153000" />
+      <workItem from="1742486291724" duration="1531000" />
+      <workItem from="1742564660892" duration="695000" />
+      <workItem from="1742565416054" duration="5308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CODE_SMELLS_PROFILE" value="Default" />
+    <confirmRemoveEmptyChangelist value="1" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lesson1$statistic_for_20.coverage" NAME="statistic_for_20 Coverage Results" MODIFIED="1736800977528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$statistic_hunt.coverage" NAME="statistic_hunt Coverage Results" MODIFIED="1732546919788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson3.coverage" NAME="lesson3 Coverage Results" MODIFIED="1732192094681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson6.coverage" NAME="lesson6 Coverage Results" MODIFIED="1735234173928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$statistic_for_20.coverage" NAME="statistic_for_20 Coverage Results" MODIFIED="1742573965150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson9.coverage" NAME="lesson9 Coverage Results" MODIFIED="1737643440117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$main_1.coverage" NAME="main_1 Coverage Results" MODIFIED="1738260541579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$statistic_hunt.coverage" NAME="statistic_hunt Coverage Results" MODIFIED="1737645934229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$other.coverage" NAME="other Coverage Results" MODIFIED="1738252986098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/pack" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson7.coverage" NAME="lesson7 Coverage Results" MODIFIED="1737636397151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$one_more_module.coverage" NAME="one_more_module Coverage Results" MODIFIED="1740660767242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$Eduson__PEP8.coverage" NAME="Eduson_Задание_PEP8 Coverage Results" MODIFIED="1742212706184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Мои документы/материалы по курсу Eduson" />
+    <SUITE FILE_PATH="coverage/My_project$module_two.coverage" NAME="module_two Coverage Results" MODIFIED="1738251032943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea/pack" />
+    <SUITE FILE_PATH="coverage/My_project$lesson8.coverage" NAME="lesson8 Coverage Results" MODIFIED="1738250398471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson8.coverage" NAME="lesson8 Coverage Results" MODIFIED="1737643435970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson4.coverage" NAME="lesson4 Coverage Results" MODIFIED="1736782275534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson2.coverage" NAME="lesson2 Coverage Results" MODIFIED="1732539722565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$other_module.coverage" NAME="other_module Coverage Results" MODIFIED="1739904195085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/lesson1$lesson5.coverage" NAME="lesson5 Coverage Results" MODIFIED="1736783862213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+    <SUITE FILE_PATH="coverage/My_project$main.coverage" NAME="main Coverage Results" MODIFIED="1740430878806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.idea" />
+  </component>
+</project>
