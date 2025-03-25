@@ -80,7 +80,7 @@ print('Сортировка второго сета по минимуму: ',sor
 # Построение графиков первого и второго сетов
 plt.grid(True)
 plt.plot(list(sat_dict.keys()), list(sat_dict.values()))
-plt.yticks(np.arange(min(list(sat_dict.values())), max(list(sat_dict_1.values())) +1))
+plt.yticks(np.arange(min(list(sat_dict_1.values())), max(list(sat_dict_1.values())) +1))
 plt.plot(list(sat_dict_1.keys()), list(sat_dict_1.values()))
 plt.show()
 
