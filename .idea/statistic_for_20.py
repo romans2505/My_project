@@ -93,6 +93,8 @@ def midll_set(dict_set):
     return midll_set
 midll_set_1 = midll_set(sat_dict)
 midll_set_2 = midll_set(sat_dict_1)
+
+
 print('Усредненный первый сет:',midll_set_1)
 print('Усредненный второй сет:',midll_set_2)
 
